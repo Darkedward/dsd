@@ -1,0 +1,7 @@
+{
+  "name": "sofi-s",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
